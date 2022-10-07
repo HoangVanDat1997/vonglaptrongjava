@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6e78e97c-5ac6-4272-991e-fc6e9987a735" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/timuocsochunglonnhat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ARR/Arr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codegym/Manu.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,11 +49,15 @@
       <option name="presentableId" value="Default" />
       <updated>1665020958301</updated>
       <workItem from="1665020960550" duration="6375000" />
-      <workItem from="1665039030347" duration="844000" />
+      <workItem from="1665039030347" duration="5364000" />
+      <workItem from="1665105730195" duration="1062000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
 </project>
