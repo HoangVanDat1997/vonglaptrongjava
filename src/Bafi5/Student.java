@@ -1,16 +1,16 @@
 package Bafi5;
 
 public class Student {
- int Year;
- String Name;
- public Student(int year , String name) {
-     Year = year;
-     Name = name;
- }
+    private String name = "John";
+    private String classes = "C02";
+    public Student(){
 
-    public static void main(String[] args) {
-        Student student = new Student(2000,"Dat");
-        System.out.println(student.Name + " " + student.Year);
+    }
+    public void setName(String name) {
+        this.name = name;
+    }
+    public void setClasses(String classes) {
+        this.classes = classes;
     }
 }
 
