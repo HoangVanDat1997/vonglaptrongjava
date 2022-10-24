@@ -9,7 +9,7 @@ public class MyLinkedListQueue {
         this.tail = null;
     }
 
-    public void enqueue(int key) {
+    public void  enqueue(int key) {
         Node temp = new Node(key);
         if (this.tail == null) {
             this.head = this.tail = temp;
