@@ -1,4 +1,4 @@
-package minitest2.b;
+package com.codegym.minitest2.b;
 
 public class Meat extends Material{
     private double weight;

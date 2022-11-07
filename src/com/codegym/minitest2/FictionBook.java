@@ -1,7 +1,4 @@
-package minitest2;
-
-import java.util.ArrayList;
-import java.util.List;
+package com.codegym.minitest2;
 
 public class FictionBook extends Book {
     public String category; // Thể loại

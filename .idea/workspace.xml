@@ -2,22 +2,46 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6e78e97c-5ac6-4272-991e-fc6e9987a735" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bai10/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bai12/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bai12/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bai12/TestMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bai13/LineSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bai13/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bai13/SelectionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bai15/ArrayExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bai15/CalculationExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bai15/LinearEquationResolver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bai15/TestException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bai15/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IO/abc.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IO/abc.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IO/vbn.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Baitapdog/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Baitapdog/DogManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CaseMd2/CanBo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CaseMd2/Canbogiaovien.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CaseMd2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CaseMd2/Manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai16/FindMaxValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai16/ReadAndWriteFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai16/ReadFileExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai16/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai17/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai17/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai17/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai18/Runnable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai18/RunnableDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai19/CrawlSongExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai19/EmailExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baitap2/ABC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baitap2/Category.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baitap2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baitap2/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baitap2/ProductManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/bai10/MyList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bai10/MyList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/bai11/MyLinkedListQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bai11/MyLinkedListQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ARR/Arr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ARR/Arr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bai11/MyStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bai11/MyStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bai15/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bai15/Triangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bai7/AbstractAndInterfaceTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bai7/AbstractAndInterfaceTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/minitest2/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/codegym/minitest2/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/minitest2/FictionBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/codegym/minitest2/FictionBook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/minitest2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/codegym/minitest2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/minitest2/ProgrammingBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/codegym/minitest2/ProgrammingBook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/minitest2/b/CrispyFlour.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/codegym/minitest2/b/CrispyFlour.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/minitest2/b/Discount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/codegym/minitest2/b/Discount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/minitest2/b/Material.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/codegym/minitest2/b/Material.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/minitest2/b/MaterialManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/codegym/minitest2/b/MaterialManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/minitest2/b/Meat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/codegym/minitest2/b/Meat.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +76,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "1.8",
+    "last_opened_file_path": "C:/Quanlygiaovien/src/Manager.java",
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
@@ -60,6 +85,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="Case" />
       <recent name="minitest2.b" />
       <recent name="bai7" />
     </key>
@@ -81,12 +107,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FictionBook" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="minitest2.FictionBook" />
+    <configuration name="DogManager" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BaitapDog.DogManager" />
       <module name="kiemtrasonguyen" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="minitest2.*" />
+          <option name="PATTERN" value="BaitapDog.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmailExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bai19.EmailExample" />
+      <module name="kiemtrasonguyen" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bai19.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,10 +161,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AbstractAndInterfaceTests" />
+        <item itemvalue="Application.EmailExample" />
+        <item itemvalue="Application.DogManager" />
         <item itemvalue="Application.LinearEquationResolver" />
         <item itemvalue="Application.SelectionSort" />
-        <item itemvalue="Application.AbstractAndInterfaceTests" />
-        <item itemvalue="Application.FictionBook" />
       </list>
     </recent_temporary>
   </component>
@@ -152,7 +192,16 @@
       <workItem from="1666142730771" duration="14528000" />
       <workItem from="1666228912488" duration="10074000" />
       <workItem from="1666315733552" duration="11406000" />
-      <workItem from="1666573509014" duration="3211000" />
+      <workItem from="1666573509014" duration="4232000" />
+      <workItem from="1666659866776" duration="11477000" />
+      <workItem from="1666746123441" duration="8360000" />
+      <workItem from="1666832815435" duration="21262000" />
+      <workItem from="1666918318746" duration="6019000" />
+      <workItem from="1666939465218" duration="3267000" />
+      <workItem from="1667177844401" duration="6365000" />
+      <workItem from="1667200095719" duration="2207000" />
+      <workItem from="1667265062420" duration="8704000" />
+      <workItem from="1667782732407" duration="2873000" />
     </task>
     <task id="LOCAL-00001" summary="doinhietdo">
       <created>1665114053474</created>
@@ -203,7 +252,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666164366782</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="bài15">
+      <created>1666576929690</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1666576929690</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -215,7 +271,8 @@
     <MESSAGE value="Circle" />
     <MESSAGE value="bài 1 minitesst2" />
     <MESSAGE value="bài11" />
-    <option name="LAST_COMMIT_MESSAGE" value="bài11" />
+    <MESSAGE value="bài15" />
+    <option name="LAST_COMMIT_MESSAGE" value="bài15" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -235,6 +292,11 @@
           <url>file://$PROJECT_DIR$/src/bai15/LinearEquationResolver.java</url>
           <line>12</line>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Baitapdog/DogManager.java</url>
+          <line>77</line>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

@@ -1,4 +1,4 @@
-package minitest2.b;
+package com.codegym.minitest2.b;
 
 public interface Discount {
     default double getRealMoney() {

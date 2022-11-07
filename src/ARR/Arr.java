@@ -1,7 +1,5 @@
 package ARR;
 
-import jdk.nashorn.internal.ir.Symbol;
-
 import java.util.Scanner;
 
 public class Arr {

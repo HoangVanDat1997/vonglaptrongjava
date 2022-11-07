@@ -1,4 +1,4 @@
-package minitest2;
+package com.codegym.minitest2;
 
 public class Main {
     static FictionBook[] fictionBooks = new FictionBook[5];

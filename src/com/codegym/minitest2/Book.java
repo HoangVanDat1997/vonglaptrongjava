@@ -1,4 +1,4 @@
-package minitest2;
+package com.codegym.minitest2;
 
 public class Book {
     private int bookCode;
