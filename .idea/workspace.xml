@@ -2,46 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6e78e97c-5ac6-4272-991e-fc6e9987a735" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/IO/abc.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IO/abc.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IO/vbn.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Baitapdog/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Baitapdog/DogManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CaseMd2/CanBo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CaseMd2/Canbogiaovien.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CaseMd2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CaseMd2/Manager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bai16/FindMaxValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bai16/ReadAndWriteFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bai16/ReadFileExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bai16/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bai17/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bai17/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bai17/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bai18/Runnable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bai18/RunnableDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bai19/CrawlSongExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bai19/EmailExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/baitap2/ABC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/baitap2/Category.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/baitap2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/baitap2/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/baitap2/ProductManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CaseMd2/Acc/LogIn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CaseMd2/File/CreateFileExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CaseMd2/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Testfile/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/aa.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ARR/Arr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ARR/Arr.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/bai11/MyStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bai11/MyStack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/bai15/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bai15/Triangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/bai7/AbstractAndInterfaceTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bai7/AbstractAndInterfaceTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/minitest2/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/codegym/minitest2/Book.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/minitest2/FictionBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/codegym/minitest2/FictionBook.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/minitest2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/codegym/minitest2/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/minitest2/ProgrammingBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/codegym/minitest2/ProgrammingBook.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/minitest2/b/CrispyFlour.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/codegym/minitest2/b/CrispyFlour.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/minitest2/b/Discount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/codegym/minitest2/b/Discount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/minitest2/b/Material.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/codegym/minitest2/b/Material.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/minitest2/b/MaterialManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/codegym/minitest2/b/MaterialManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/minitest2/b/Meat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/codegym/minitest2/b/Meat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CaseMd2/Canbogiaovien.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CaseMd2/Canbogiaovien.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CaseMd2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CaseMd2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CaseMd2/Manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CaseMd2/Manager.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +45,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "1.8",
-    "last_opened_file_path": "C:/Quanlygiaovien/src/Manager.java",
+    "last_opened_file_path": "C:/Quanlygiaovien/src/Main.java",
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
@@ -201,7 +170,9 @@
       <workItem from="1667177844401" duration="6365000" />
       <workItem from="1667200095719" duration="2207000" />
       <workItem from="1667265062420" duration="8704000" />
-      <workItem from="1667782732407" duration="2873000" />
+      <workItem from="1667782732407" duration="13411000" />
+      <workItem from="1667870319729" duration="7444000" />
+      <workItem from="1667919798920" duration="3517000" />
     </task>
     <task id="LOCAL-00001" summary="doinhietdo">
       <created>1665114053474</created>
@@ -259,7 +230,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666576929690</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Case">
+      <created>1667785626791</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1667785626791</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -272,7 +250,8 @@
     <MESSAGE value="bài 1 minitesst2" />
     <MESSAGE value="bài11" />
     <MESSAGE value="bài15" />
-    <option name="LAST_COMMIT_MESSAGE" value="bài15" />
+    <MESSAGE value="Case" />
+    <option name="LAST_COMMIT_MESSAGE" value="Case" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

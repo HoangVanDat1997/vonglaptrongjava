@@ -49,4 +49,8 @@ public class Canbogiaovien extends CanBo {
                 ", luongcung=" + luongcung +
                 "} " + super.toString();
     }
+
+    public Object getId() {
+        return null;
+    }
 }
