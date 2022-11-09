@@ -80,5 +80,14 @@ public class Manager {
                 System.out.println(canbogiaovien);
             }
         }
+
+    }
+
+    public void LuongLonHon15000000tr() {
+        for (Canbogiaovien canbogiaovien : ListCanbo) {
+            if (canbogiaovien.Luongthuclinh() >= 15000000) {
+                System.out.println(canbogiaovien);
+            }
+        }
     }
 }

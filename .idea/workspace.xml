@@ -2,15 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6e78e97c-5ac6-4272-991e-fc6e9987a735" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/CaseMd2/Acc/LogIn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CaseMd2/File/CreateFileExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CaseMd2/Menu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Testfile/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/aa.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CaseMd2/Canbogiaovien.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CaseMd2/Canbogiaovien.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CaseMd2/File/CreateFileExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CaseMd2/File/CreateFileExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/CaseMd2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CaseMd2/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CaseMd2/Manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CaseMd2/Manager.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,20 +32,20 @@
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "jdk.selected.JAVA_MODULE": "1.8",
-    "last_opened_file_path": "C:/Quanlygiaovien/src/Main.java",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;1.8&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Quanlygiaovien/src/Main.java&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="Case" />
@@ -172,7 +166,8 @@
       <workItem from="1667265062420" duration="8704000" />
       <workItem from="1667782732407" duration="13411000" />
       <workItem from="1667870319729" duration="7444000" />
-      <workItem from="1667919798920" duration="3517000" />
+      <workItem from="1667919798920" duration="4017000" />
+      <workItem from="1667955022272" duration="1415000" />
     </task>
     <task id="LOCAL-00001" summary="doinhietdo">
       <created>1665114053474</created>
@@ -237,7 +232,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667785626791</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Case">
+      <created>1667923377091</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1667923377091</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
