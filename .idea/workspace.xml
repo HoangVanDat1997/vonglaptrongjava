@@ -2,9 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6e78e97c-5ac6-4272-991e-fc6e9987a735" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/IO/Danhsachgiaovien" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CaseMd2/File/Danhsachgiaovien" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CaseMd2/ValidateClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CaseMd2/File/CreateFileExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CaseMd2/File/CreateFileExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CaseMd2/Acc/LogIn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CaseMd2/Acc/LogIn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CaseMd2/CanBo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CaseMd2/CanBo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CaseMd2/Canbogiaovien.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CaseMd2/Canbogiaovien.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CaseMd2/File/CreateFileExample.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/CaseMd2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CaseMd2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CaseMd2/Manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CaseMd2/Manager.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,11 +46,12 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;1.8&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Quanlygiaovien/src/Main.java&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ADMIN/IdeaProjects/kiemtrasonguyen/IO/abc.dat&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;two.files.diff.last.used.file&quot;: &quot;C:/Users/ADMIN/IdeaProjects/kiemtrasonguyen/IO/abc.dat&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -56,7 +64,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.AbstractAndInterfaceTests">
     <configuration name="AbstractAndInterfaceTests" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="bai7.AbstractAndInterfaceTests" />
       <module name="kiemtrasonguyen" />
@@ -167,7 +175,8 @@
       <workItem from="1667782732407" duration="13411000" />
       <workItem from="1667870319729" duration="7444000" />
       <workItem from="1667919798920" duration="4017000" />
-      <workItem from="1667955022272" duration="1415000" />
+      <workItem from="1667955022272" duration="2877000" />
+      <workItem from="1667959903048" duration="7042000" />
     </task>
     <task id="LOCAL-00001" summary="doinhietdo">
       <created>1665114053474</created>
@@ -239,7 +248,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667923377091</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Case">
+      <created>1667956713246</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1667956713246</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

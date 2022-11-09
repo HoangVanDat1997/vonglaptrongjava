@@ -1,17 +1,18 @@
 package CaseMd2;
 
+import java.io.Serializable;
 import java.time.LocalDate;
 
-public class Canbogiaovien extends CanBo {
+public class Canbogiaovien extends CanBo implements Serializable {
     private double Luongthuong;
     private double luongphat;
     private double luongcung;
 
-    public Canbogiaovien(String name, LocalDate ngaysinh, String quequan, double luongthuong, double luongphat, double luongcung) {
+    public Canbogiaovien(String name, LocalDate ngaysinh, String quequan, String luongthuong, String luongphat, String luongcung) {
         super(name, ngaysinh, quequan);
-        Luongthuong = luongthuong;
-        this.luongphat = luongphat;
-        this.luongcung = luongcung;
+        Luongthuong = Double.parseDouble(luongthuong);
+        this.luongphat = Double.parseDouble(luongphat);
+        this.luongcung = Double.parseDouble(luongcung);
     }
 
     public double getLuongthuong() {

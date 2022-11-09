@@ -7,7 +7,7 @@ import java.util.Scanner;
     public class LogIn {
         public static Scanner scanner = new Scanner(System.in);
         public static final String ACCOUNT_ADMIN = "Admin";
-        public static final String PASSWORD_ADMIN = "******";
+        public static final String PASSWORD_ADMIN = "hihihi";
 
         public void logInAcc() throws Exception {
             do {
