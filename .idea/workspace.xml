@@ -2,16 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6e78e97c-5ac6-4272-991e-fc6e9987a735" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/IO/Danhsachgiaovien" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CaseMd2/File/Danhsachgiaovien" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CaseMd2/ValidateClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThiThucHanhMoDul2/CollegeStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThiThucHanhMoDul2/IOfile/List" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThiThucHanhMoDul2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThiThucHanhMoDul2/Manu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThiThucHanhMoDul2/StudentManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThiThucHanhMoDul2/ValidateClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CaseMd2/Acc/LogIn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CaseMd2/Acc/LogIn.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CaseMd2/CanBo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CaseMd2/CanBo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CaseMd2/Canbogiaovien.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CaseMd2/Canbogiaovien.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CaseMd2/File/CreateFileExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CaseMd2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CaseMd2/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CaseMd2/Manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CaseMd2/Manager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CaseMd2/Acc/LogIn.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CaseMd2/CanBo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CaseMd2/Canbogiaovien.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CaseMd2/File/Danhsachgiaovien" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CaseMd2/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CaseMd2/Manager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CaseMd2/Menu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CaseMd2/ValidateClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/timuocsochunglonnhat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ungdungtienlaichovay.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/aa.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +65,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="ThiThucHanhMoDul2" />
       <recent name="Case" />
       <recent name="minitest2.b" />
       <recent name="bai7" />
@@ -64,7 +74,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AbstractAndInterfaceTests">
+  <component name="RunManager">
     <configuration name="AbstractAndInterfaceTests" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="bai7.AbstractAndInterfaceTests" />
       <module name="kiemtrasonguyen" />
@@ -177,6 +187,7 @@
       <workItem from="1667919798920" duration="4017000" />
       <workItem from="1667955022272" duration="2877000" />
       <workItem from="1667959903048" duration="7042000" />
+      <workItem from="1668041867622" duration="9912000" />
     </task>
     <task id="LOCAL-00001" summary="doinhietdo">
       <created>1665114053474</created>
